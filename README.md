@@ -6,8 +6,6 @@ TOCropViewController is an open-source UIViewController subclass built to allow 
 
 ## Features
 
----
-
 - Crop images by dragging the edges of a grid overlay.
 - Optionally, crop circular copies of images.
 - Rotate images in 90-degree segments.
@@ -21,6 +19,5 @@ TOCropViewController is an open-source UIViewController subclass built to allow 
 
 ## Credits
 
----
 The original Objective C library was created by Tim Oliver
 [https://github.com/TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController)
